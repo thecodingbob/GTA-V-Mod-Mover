@@ -1,4 +1,4 @@
-#GTA V Mods Mover
+# GTA V Mods Mover
 Simple tool to quickly backup and restore GTA V mods.
 Useful for fast switching to single player with mods to GTA Online without mods.
 
@@ -8,7 +8,7 @@ Usage:
 
 It picks by default all the .asi files. Can be configured to pick additional files.
 
-##Configuration
+## Configuration
 
 The script comes with a config.ini files to provide the needed options.
 Before you use the script for the first time, check that the options are properly configured.
